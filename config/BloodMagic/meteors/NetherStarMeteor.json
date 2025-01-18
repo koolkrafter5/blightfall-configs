@@ -7,10 +7,10 @@
         "OREDICT:orePlatinum:150",
         "OREDICT:oreYellorite:100",
         "OREDICT:oreYellorium:100",
-        "OREDICT:oreAdamantine:50",
-        "OREDICT:oreAtlarus:50",
-        "OREDICT:oreEximite:50",
-        "OREDICT:oreMeutoite:50"
+        "OREDICT:oreAdamantine:50:terrae,orbisTerrae",
+        "OREDICT:oreAtlarus:50:terrae,orbisTerrae",
+        "OREDICT:oreEximite:50:orbisTerrae",
+        "OREDICT:oreMeutoite:50:orbisTerrae"
     ],
     "radius": 3,
     "cost": 1000000,
